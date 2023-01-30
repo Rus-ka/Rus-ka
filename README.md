@@ -6,7 +6,7 @@
 <li> ⚙️ Focused on leetcode problem-solving</li> 
 <li> 👨‍💻 Most of my projects are available on Github.  (<i> In progress</i> )</li> 
 <li> 💵 Ex-accountant </li>
-<li> 📈 Spare time trading</li> 
+<li> 📈 Enjoy stock investments</li> 
 <li> ⚡ Fun fact: I love dogs, vehicles, racing, gaming.</li> 
 <li> 📝 2023 Goals: write articles on my blog.</li> 
 </ul>
