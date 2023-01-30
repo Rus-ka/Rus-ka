@@ -37,7 +37,7 @@
  ### Connect with me:
 <p align="left">
 
-<a href="https://www.linkedin.com/comm/in/rus-ka" target="blank"><img src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="react" width="25" height="25" />
+<a href="https://www.linkedin.com/comm/in/rus-ka" target="blank"><img src="https://www.svgrepo.com/show/349436/linkedin.svg" alt="react" width="25" height="25" />
 <a href="https://vk.com/rus_ka" target="blank"><img src="https://www.svgrepo.com/show/349554/vk.svg" alt="react" width="25" height="25" />
 <a href="https://t.me/rus_ka" target="blank"><img src="https://www.svgrepo.com/show/354443/telegram.svg" alt="react" width="25" height="25" />
 <a href="mailto:rrkaziev@gmail.com" target="blank"><img src="https://www.svgrepo.com/show/349378/gmail.svg" alt="react" width="25" height="25" />
