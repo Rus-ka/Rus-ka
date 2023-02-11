@@ -8,7 +8,6 @@
 <li> 💵 Ex-accountant </li>
 <li> 📈 Enjoy stock investments</li> 
 <li> ⚡ Fun fact: I love dogs, vehicles, racing, gaming.</li> 
-<li> 📝 2023 Goals: write articles on my blog.</li> 
 </ul>
 <br>
 
