@@ -3,7 +3,7 @@
 <ul>
 <li> 👨‍💻 I am software engineer who specializes in front-end development.</li> 
 <li> ⚙️ Focused on leetcode problem-solving</li> 
-<li> 👨‍💻 Most of my projects are available on Github.  (<i> In progress</i> )</li> 
+<li> 👨‍💻 Most of my projects are available on Github.  
 <li> 💵 Ex-accountant </li>
 <li> 📈 Enjoy stock investments</li> 
 <li> ⚡ Fun fact: love dogs & vehicles</li> 
