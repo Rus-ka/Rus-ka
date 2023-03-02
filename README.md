@@ -40,7 +40,7 @@
 <a href="https://t.me/rus_ka" target="blank"><img src="https://www.svgrepo.com/show/349527/telegram.svg" alt="react" width="25" height="25" />
 <a href="https://vk.com/rus_ka" target="blank"><img src="https://www.svgrepo.com/show/349554/vk.svg" alt="react" width="25" height="25" />
 <a href="mailto:rrkaziev@gmail.com" target="blank"><img src="https://www.svgrepo.com/show/349378/gmail.svg" alt="react" width="25" height="25" />
-<!--  <a href="https://www.linkedin.com/comm/in/rus-ka" target="blank"><img src="https://www.svgrepo.com/show/349436/linkedin.svg" alt="react" width="25" height="25" /> -->
+<!--  <a href="https://www.linkedin.com/comm/in/rus-ka" target="blank"><img src="https://www.svgrepo.com/show/349436/linkedin.svg" alt="react" width="25" height="25" 
  
 <a href="https://github-readme-stats.vercel.app/api?username=Rus-kar&show_icons=true">
   <img  align="left" height="150" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=Rus-ka&show_icons=true" />
@@ -48,4 +48,4 @@
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Rus-ka&layout=compact">
   <img align="left" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rus-ka&layout=compact" />
 </a>
-
+/> -->
