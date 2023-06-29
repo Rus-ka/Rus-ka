@@ -6,7 +6,6 @@
 <li> 👨‍💻 Most of my projects are available on Github.  
 <li> 💵 Ex-accountant </li>
 <li> 📈 Enjoy stock investments</li> 
-<li> ⚡ Fun fact: love dogs & vehicles</li> 
 </ul>
 <br>
 
